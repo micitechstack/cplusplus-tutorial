@@ -1,6 +1,6 @@
 # Summary
 
-- [介绍](../README.md)
+- [介绍](./index.md)
 - [基本概念](./chapter1/chapter_1.md)
 - [数据类型](./chapter2/chapter_1.md)
 - [决策语句](./chapter3/chapter_1.md)
